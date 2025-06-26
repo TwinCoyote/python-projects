@@ -8,3 +8,4 @@ This repository contains tasks, exercises, and small projects developed in Pytho
 - `Tarea2_OCR`: Optical Character Recognition (OCR) from images.
 - `ESP32_Servos`: Servo motor control using an ESP32 board.
 - `CapturaObjetos`: Capturing object images from a webcam for training datasets.
+- `FingerCounter/contadorDedos.py`: Counting fingers using OpenCV and mediapipe.
