@@ -1,4 +1,5 @@
 # pylint: disable=no-member
+# pylint: disable=invalid-name
 import cv2
 import numpy as np
 import imutils
