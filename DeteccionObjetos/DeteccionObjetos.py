@@ -5,7 +5,7 @@ import imutils
 import os
 
 
-Datos = 'p'
+Datos = 'n'
 if not os.path.exists(Datos):
     print('Carpeta Creada:', Datos)
     os.makedirs(Datos)

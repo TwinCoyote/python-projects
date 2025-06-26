@@ -6,7 +6,7 @@ print("Video o imagen? (v/i)", end="")
 option = input().lower()
 if option == "i":
 
-    image = cv2.imread('assets/L4.jpg')  # pylint: disable=no-member
+    image = cv2.imread('assets/L76.jpg')  # pylint: disable=no-member
     result = reader.readtext(image, paragraph=True)
 
     for res in result:

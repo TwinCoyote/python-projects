@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<cascade>
+  <size>
+    30 30</size>
+  <stages>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 3 28 2 -1.</_>
+                <_>
+                  0 4 28 1 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-1.4467439614236355e-003</threshold>
+            <left_val>8.3333333333333359e-001</left_val>
+            <right_val>-1.</right_val></_></_></trees>
+      <stage_threshold>8.3333331346511841e-001</stage_threshold>
+      <parent>-1</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 1 18 28 -1.</_>
+                <_>
+                  0 8 18 14 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-1.1910556256771088e-001</threshold>
+            <left_val>8.7500000000000000e-001</left_val>
+            <right_val>-8.1818181818181823e-001</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  15 2 10 2 -1.</_>
+                <_>
+                  15 3 10 1 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-2.0763196516782045e-005</threshold>
+            <left_val>7.9082815558357211e-001</left_val>
+            <right_val>-9.4867950964101988e-001</right_val></_></_></trees>
+      <stage_threshold>-7.3679506778717041e-002</stage_threshold>
+      <parent>0</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  4 12 2 6 -1.</_>
+                <_>
+                  4 14 2 2 3.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-1.1817065569630358e-005</threshold>
+            <left_val>9.3548387096774199e-001</left_val>
+            <right_val>-8.2352941176470607e-001</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 11 4 2 -1.</_>
+                <_>
+                  0 12 4 1 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-1.2127356058044825e-005</threshold>
+            <left_val>9.0411205236051140e-001</left_val>
+            <right_val>-8.5690427645824518e-001</right_val></_></_></trees>
+      <stage_threshold>7.8579597175121307e-002</stage_threshold>
+      <parent>1</parent>
+      <next>-1</next></_></stages></cascade>
+</opencv_storage>
